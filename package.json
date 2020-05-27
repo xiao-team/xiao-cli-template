@@ -1,7 +1,7 @@
 {
-    "name": "createvue",
+    "name": "{{name}}",
     "version": "1.0.0",
-    "description": "none",
+    "description": "{{description}}",
     "main": "index.js",
     "scripts": {
         "precommit": "lint-staged",
@@ -25,7 +25,7 @@
         "create",
         "vue"
     ],
-    "author": "suporka",
+    "author": "{{author}}",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/zxpsuper/createVue/issues"
