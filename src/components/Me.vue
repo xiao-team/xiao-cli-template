@@ -6,9 +6,9 @@
         <h3>Expert in javascript react vue weapp and so on!</h3>
         <h3>The following are the details:</h3>
         <p class="link">
-            <a href="https://juejin.im/user/5af17df4518825672a02e1f5">juejin</a>
+            <a href="https://juejin.im/user/5af17df4518825672a02e1f5">Juejin</a>
             <a href="https://blog.csdn.net/weixin_38788347">CSDN</a>
-            <a href="https://github.com/zxpsuper">github</a>
+            <a href="https://github.com/zxpsuper">Github</a>
             <a href="https://zxpsuper.github.io/">Blog</a>
         </p>
         <p>You have stay here for {{ count }} seconds!</p>

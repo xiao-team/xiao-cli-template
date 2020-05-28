@@ -4,8 +4,9 @@
             class="github-fork-ribbon right-top"
             href="https://github.com/zxpsuper/createVue"
             title="Fork me on GitHub"
-            >Fork me on GitHub</a
         >
+            Fork me on GitHub
+        </a>
         <transition name="slide-up">
             <img
                 src="./assets/logo.png"
@@ -87,17 +88,7 @@ export default {
 img {
     margin-top: 60px;
 }
-.name {
-    color: #00aac5;
-}
-.age {
-    color: red;
-}
-.test {
-    width: 100px;
-    height: 100px;
-    background: url('./datepicker.png') no-repeat;
-}
+
 .flex {
     display: flex;
 }
