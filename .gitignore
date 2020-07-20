@@ -6,3 +6,5 @@ node_modules/
 public/
 dist/
 .deploy*/
+docs/
+coverage/
